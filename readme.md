@@ -28,7 +28,7 @@ To use this package, you need to have Go installed on your machine. If you don't
    go run main.go 
 ```
 # Usage
-Once the application is running, it will display a table with the current weather data for the specified cities. The table will be updated every 10 minutes, and a countdown timer will show the time remaining until the next update.
+Just enter the IP address or hostname of your choice and see all the open TCP ports of that network.
 
 # Dependencies
 - Go 1.16 or later
