@@ -6,17 +6,12 @@ This project can be an alternative to nmap. I don't like nmap very much because 
 
 
 # Features
+
+- Much faster and lighter than Nmap
 - Scans all TCP ports (1-65535) on a specified hostname or IP address.
 - Displays open ports in a nicely formatted ASCII table.
-- Shows the number of open ports found.
-- Includes a loading spinner animation during the scanning process.
-- Customizable ASCII art displayed at the start of the program.
-
-- Displays the current temperature, maximum temperature, and minimum temperature.
-
-- Updates the table every 10 minutes.
--Sorts the cities by current temperature in descending order.
-
+- Runnable on Windows and Linux
+- Lightweight and fast scanner
 
 
 # Installation
